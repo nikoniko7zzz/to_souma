@@ -34,9 +34,6 @@ pyzmail36（メール解析に利用）
 pip install pyzmail36
 ```
 
-```python
-pip freeze > requirements.txt
-```
 
 <br>
 
